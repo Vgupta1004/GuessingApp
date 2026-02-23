@@ -1,5 +1,5 @@
 /**
- * Use Case 3: Error Handling and Validation
+ * Use Case 4: Error Handling and Validation
  * 
  * This class coordinated the game execution while ensuring
  * all user inputs are safely validated before processing.
